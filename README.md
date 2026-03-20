@@ -1,6 +1,8 @@
 Overview
 The Stock Bot allows you to fetch historical stock data using the Polygon API. You can enter a stock ticker and a specific date (in MM-DD-YYYY format) to retrieve the stock's open, high, low, close, and volume data for that day. The data is displayed in a user-friendly table for easy reference.
 
+Note The Current Release only Supports Windows Platform
+
 How to Use
 1. **Open the Program**
    - Double-click the `StockBot.exe` file to launch the program.
